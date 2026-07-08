@@ -159,7 +159,7 @@ This project is open source. *(Add a license — e.g., [MIT License](LICENSE) �
 ## Contact
 
 - 💬 Preferred: Open a [Discussion](../../discussions) or [Issue](../../issues) right here on GitHub
-- 📧 *(Optionally add an email or social handle here)*
+- 📧 Contact - Go through my website
 
 ---
 
