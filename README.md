@@ -1,3 +1,6 @@
+
+![](./1ban.png)
+
 # IMSN — Indian Muslims Student Network
 
 **A community-driven hub for Indian Muslim students to connect, support each other, and grow — academically, professionally, and personally.**
