@@ -1,169 +1,217 @@
 
 ![](./1ban.png)
 
-# IMSN — Indian Muslims Student Network
 
-**A community-driven hub for Indian Muslim students to connect, support each other, and grow — academically, professionally, and personally.**
+<p align="center">
+  <!-- 👉 REPLACE THE src BELOW WITH YOUR IMAGE URL -->
+  <img src="YOUR_IMAGE_URL_HERE" alt="IMSN — Indian Muslims Student Network" width="640"/>
+</p>
 
-This repository is the starting point. It's not a finished product — it's an open invitation to build something meaningful, together.
+<h1 align="center">IMSN — Indian Muslims Student Network</h1>
+
+<p align="center">
+  <em>A community-driven hub for Indian Muslim students to connect, support one another, and grow —<br/>
+  academically, professionally, and spiritually.</em>
+</p>
+
+<p align="center">
+  <strong>بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</strong><br/>
+  <em>“Read! In the name of your Lord who created.”</em> — Surah Al-'Alaq (96:1)
+</p>
+
+<p align="center">
+  <em>“My Lord, increase me in knowledge.”</em> — Surah Taha (20:114)
+</p>
+
+---
+
+This repository is not a finished product. It is an open invitation — a first stone laid in the foundation of something meaningful, to be built together, with sincerity and with patience.
+
+> *"Whoever travels a path in search of knowledge, Allah will make easy for him a path to Paradise."*
+> — Prophet Muhammad ﷺ (Sahih Muslim)
 
 ---
 
 ## 📖 Table of Contents
 
-- [About IMSN](#about-imsn)
-- [Why Join?](#why-join)
-- [What This Could Become](#what-this-could-become)
-- [Current Status](#current-status)
-- [This Is an Open, Community-Built Effort](#this-is-an-open-community-built-effort)
-- [How to Get Involved](#how-to-get-involved)
-- [Discussion Topics to Start With](#discussion-topics-to-start-with)
-- [Guiding Principles](#guiding-principles)
-- [Roadmap](#roadmap)
-- [Maintainers](#maintainers)
-- [License](#license)
-- [Contact](#contact)
+1. [About IMSN](#1-about-imsn)
+2. [Why Join?](#2-why-join)
+3. [What This Could Become](#3-what-this-could-become)
+4. [Current Status](#4-current-status)
+5. [An Open, Community-Built Effort](#5-an-open-community-built-effort)
+6. [How to Get Involved](#6-how-to-get-involved)
+7. [Discussion Topics to Start With](#7-discussion-topics-to-start-with)
+8. [Guiding Principles](#8-guiding-principles)
+9. [Roadmap](#9-roadmap)
+10. [Maintainers](#10-maintainers)
+11. [License](#11-license)
+12. [Contact](#12-contact)
 
 ---
 
-## About IMSN
+## 1. About IMSN
 
-**IMSN (Indian Muslims Student Network)** is an open, grassroots initiative to build a network for Indian Muslim students — across schools, colleges, universities, and countries — to find community, mentorship, resources, and opportunities that are often hard to come by alone.
+**IMSN (Indian Muslims Student Network)** is an open, grassroots initiative to build a lasting network for Indian Muslim students — across schools, colleges, universities, and countries — so that they may find community, mentorship, resources, and opportunities that are too often difficult to attain alone.
 
-Many Indian Muslim students navigate their academic and professional journeys without a strong support system tailored to their specific needs — whether that's finding scholarships, navigating identity in unfamiliar spaces, getting career guidance from people who understand the journey, or simply finding others who *get it*.
+The pursuit of knowledge (*'ilm*) holds an honoured place in our tradition. Yet many Indian Muslim students walk their academic and professional paths without a support system shaped around their particular needs — whether that means discovering scholarships, holding on to one's identity in unfamiliar spaces, receiving career guidance from those who truly understand the journey, or simply finding others who understand without needing to be told.
 
-IMSN aims to close that gap by building an open, transparent, and community-owned platform — starting right here, in this repository.
-
----
-
-## Why Join?
-
-If you're an Indian Muslim student — or an ally who wants to help build this — here's why this is worth your time:
-
-- 🤝 **You won't be navigating this alone.** From choosing the right college to finding your first job, there's real value in learning from people who've walked a similar path.
-- 🎓 **Access to opportunities that don't always reach everyone.** Scholarships, fellowships, internships, and mentorship programs often go unnoticed simply because information doesn't reach the right people. We want to fix that.
-- 🕌 **A space that understands your context.** Balancing faith, identity, academics, and ambition is its own journey. This network is built by and for people who understand that balance.
-- 🌍 **A growing network, not a static resource.** As more students and alumni join, the value compounds — more mentors, more job referrals, more shared experiences, more opportunities.
-- 🛠️ **A chance to shape something from day one.** This isn't a polished app with a locked-in vision — it's early, it's open, and your ideas can genuinely shape its direction.
-- 📢 **Representation and visibility.** A public, active network signals that this community is organized, engaged, and building — which matters for how opportunities and partnerships come our way.
-
-If any of this resonates, you're exactly who this project needs.
+IMSN exists to close that gap — by building an open, transparent, and community-owned platform, beginning here, in this repository. We regard this work not merely as a project, but as a service to the *ummah* and an act of worship when done with the right intention.
 
 ---
 
-## What This Could Become
+## 2. Why Join?
 
-This is intentionally open-ended, but here are some directions the community could take IMSN in:
+If you are an Indian Muslim student — or an ally who wishes to help build this — consider why this is worthy of your time:
 
-- A **directory/network** of students and alumni across institutions
-- A **mentorship matching** system (senior students/professionals ↔ junior students)
+- 🤝 **You will not walk this path alone.** From choosing the right college to securing your first position, there is immense value in learning from those who have walked a similar road. The Prophet ﷺ described the believers as one body — when one part aches, the whole body responds.
+- 🎓 **Access to opportunities that do not always reach everyone.** Scholarships, fellowships, internships, and mentorship programmes frequently pass unnoticed, simply because information fails to reach those who need it. We intend to correct that.
+- 🕌 **A space that understands your context.** Balancing faith, identity, academics, and ambition is a journey of its own. This network is built by, and for, people who understand that balance intimately.
+- 🌍 **A growing network, not a static resource.** As more students and alumni join, the value compounds — more mentors, more referrals, more shared experience, more doors opened.
+- 🛠️ **A chance to shape something from the very beginning.** This is not a polished application with a fixed vision. It is early, it is open, and your ideas can genuinely determine its direction.
+- 📢 **Representation and visibility.** A public, active network signals that this community is organised, engaged, and building — and that matters for how opportunities and partnerships come our way.
+
+If any of this resonates with you, then you are precisely whom this project needs.
+
+---
+
+## 3. What This Could Become
+
+This effort is intentionally open-ended. Among the directions the community may take IMSN:
+
+- A **directory and network** of students and alumni across institutions
+- A **mentorship matching system** (senior students and professionals ↔ junior students)
 - A **scholarship and opportunity board**, crowdsourced and verified
-- **Discussion forums** or chapters by city, college, or field of study
-- A **resource library** — guides on applications, interviews, study abroad, etc.
-- Regional or campus-level **chapters/meetups**
-- A simple **website or app** as the public face of the network
+- **Discussion forums and chapters** organised by city, college, or field of study
+- A **resource library** — guides on applications, interviews, study abroad, and more
+- **Regional and campus-level chapters** and meetups
+- A simple **website or application** as the public face of the network
 
-None of this is locked in — it's all up for discussion. See [Discussion Topics to Start With](#discussion-topics-to-start-with) below.
+None of this is fixed. All of it remains open for consultation (*shura*). See [Discussion Topics to Start With](#7-discussion-topics-to-start-with) below.
 
 ---
 
-## Current Status
+## 4. Current Status
 
 🚧 **Early stage — foundations only.**
 
-Right now, this repository exists mainly as a **discussion and planning space**. There's no app, no platform, no infrastructure yet — just an idea worth building properly, together, instead of rushing into code.
+At present, this repository serves chiefly as a space for discussion and planning. There is no application, no platform, and no infrastructure yet — only an idea worthy of being built properly, and together, rather than rushed into code.
+
+We begin, as we intend to continue, with *bismillah* — not with haste.
 
 ---
 
-## This Is an Open, Community-Built Effort
+## 5. An Open, Community-Built Effort
 
-I want to be upfront about something important: **I'm not planning to build this entire thing by myself.**
+It is important to be forthright about one matter: this is not a project one person intends to build alone.
 
-I started this repository because I believe this idea is worth pursuing — but a project like this works best when it's shaped by the community it's meant to serve, not by one person's assumptions. My role here is to:
+This repository was started in the conviction that the idea is worth pursuing — yet an endeavour of this kind succeeds best when it is shaped by the community it exists to serve, rather than by the assumptions of a single individual. The role of the founder here is to:
 
-- Maintain this repository and keep discussions organized
-- Make final calls when needed to keep things moving
-- Help coordinate contributors and connect good ideas to action
+- Maintain this repository and keep discussions organised
+- Make final decisions when necessary to keep the work moving
+- Coordinate contributors and connect sound ideas to action
 
-But the **direction, features, design, and priorities** should come from the community — students, developers, designers, mentors, and organizers who want to see this succeed. If you have skills, time, ideas, or even just strong opinions about what this should look like, **this is your invitation to jump in.**
+But the direction, the features, the design, and the priorities ought to emerge from the community — students, developers, designers, mentors, and organisers who wish to see this succeed. If you have skills, time, ideas, or even simply strong convictions about what this should become, consider this your invitation to step forward.
 
-Think of this less like "a project I'm building" and more like "a project we're figuring out together."
+This governance rests on the principle of **shura** (mutual consultation):
 
----
+> *"…and whose affair is [determined by] consultation among themselves…"*
+> — Surah Ash-Shura (42:38)
 
-## How to Get Involved
-
-You don't need to be a developer to contribute. Here's how anyone can help:
-
-1. ⭐ **Star this repo** to help others discover it.
-2. 💬 **Open a [Discussion](../../discussions)** — share ideas, ask questions, propose features.
-3. 🐛 **Open an [Issue](../../issues)** — for concrete proposals, bugs (once we have code), or tasks.
-4. 🧠 **Join a discussion thread** — even just weighing in with your perspective helps shape decisions.
-5. 🛠️ **Contribute code, design, or content** once initial direction is set — PRs welcome.
-6. 📣 **Spread the word** — share this repo with other students who'd want to be part of it.
-
-No contribution is too small. Ideas, feedback, and encouragement all count.
+Think of this less as "a project I am building," and more as "a project we are building together."
 
 ---
 
-## Discussion Topics to Start With
+## 6. How to Get Involved
 
-To kick things off, here are some open questions the community should weigh in on. Head to the [Discussions tab](../../discussions) to share your thoughts:
+You need not be a developer to contribute. Here is how anyone may help:
 
-- What should IMSN's **first concrete deliverable** be? (A directory? A resource list? A Discord/community space? A website?)
-- What **platform(s)** make sense to start with — GitHub Discussions, Discord, a simple website, all of the above?
-- Should IMSN organize by **region/city**, by **institution**, by **field of study**, or stay unified?
-- What kind of **governance** should this project have as it grows (maintainers, working groups, etc.)?
-- What are the **biggest pain points** you've personally faced that IMSN could realistically solve first?
+- ⭐ **Star this repository** to help others discover it.
+- 💬 **Open a Discussion** — share ideas, ask questions, propose features.
+- 🐛 **Open an Issue** — for concrete proposals, tasks, or (once we have code) bugs.
+- 🧠 **Join a discussion thread** — even a single perspective helps shape decisions.
+- 🛠️ **Contribute code, design, or content** once the initial direction is set — pull requests are welcome.
+- 📣 **Spread the word** — share this repository with students who would wish to be part of it.
 
----
-
-## Guiding Principles
-
-As this project grows, a few principles to keep it grounded:
-
-- **Community-first** — decisions should reflect what students actually need, not assumptions.
-- **Open by default** — discussions, decisions, and progress should be visible and documented here.
-- **Inclusive** — welcoming to Indian Muslim students of all backgrounds, sects, regions, and walks of life, and to allies who want to help.
-- **Low barrier to entry** — you shouldn't need to be a developer to contribute meaningfully.
-- **Sustainable pace** — this is a long-term community effort, not a rushed sprint.
+No contribution is too small. Every act of help, offered sincerely, is a form of *sadaqah* — and ideas, feedback, and encouragement all count.
 
 ---
 
-## Roadmap
+## 7. Discussion Topics to Start With
 
-A living roadmap — expect this to evolve based on community discussion.
+To begin, here are open questions on which the community is invited to weigh in. Please head to the **Discussions** tab to share your thoughts:
+
+1. What should IMSN's first concrete deliverable be? (A directory? A resource list? A community space? A website?)
+2. Which platform(s) make sense to begin with — GitHub Discussions, Discord, a simple website, or all of the above?
+3. Should IMSN organise by region and city, by institution, by field of study, or remain unified?
+4. What form of governance should this project adopt as it grows (maintainers, working groups, and so on)?
+5. What are the greatest difficulties you have personally faced that IMSN could realistically address first?
+
+---
+
+## 8. Guiding Principles
+
+As this project grows, it is anchored in principles drawn both from sound community practice and from our tradition:
+
+| Principle | Meaning | How We Live It |
+|-----------|---------|----------------|
+| **Ikhlāṣ** | Sincerity | Built for the sake of Allah and the service of students — not for ego, fame, or profit. |
+| **Amānah** | Trust | Discussions, data, and one another's privacy are handled with honesty and care. |
+| **Shūrā** | Consultation | Decisions are made openly, with the community, not imposed from above. |
+| **Ukhuwwah** | Brotherhood & Sisterhood | Welcoming to Indian Muslim students of every background, sect, region, and walk of life — and to allies who wish to help. |
+| **Adab** | Courtesy | We disagree with grace, critique ideas rather than persons, and treat every member with respect. |
+| **Iḥsān** | Excellence | We strive to do things well, even when no one is watching. |
+
+Two further commitments keep us grounded:
+
+- **Low barrier to entry** — one should not need to be a developer to contribute meaningfully.
+- **A sustainable pace** — this is a long-term community effort, not a hurried sprint.
+
+---
+
+## 9. Roadmap
+
+A living roadmap — expected to evolve with the community's consultation.
 
 - [ ] Set up Discussions and contribution guidelines
-- [ ] Gather input on priorities and first deliverable
-- [ ] Define initial scope (MVP) based on community consensus
-- [ ] Recruit early contributors (dev, design, content, outreach)
-- [ ] Build and launch MVP
+- [ ] Gather input on priorities and the first deliverable
+- [ ] Define the initial scope (MVP) based on community consensus
+- [ ] Recruit early contributors (development, design, content, outreach)
+- [ ] Build and launch the MVP
 - [ ] Iterate based on feedback from early users
 
 ---
 
-## Maintainers
+## 10. Maintainers
+
+In this project, maintainers are servants (*khuddām*) of the community, not its owners.
 
 | Role | Handle |
 |------|--------|
 | Founder / Maintainer | *(add your GitHub username here)* |
 
-Interested in becoming a maintainer or co-organizer as the project grows? Say so in the [Discussions](../../discussions) — this list is meant to expand.
+If you wish to become a maintainer or co-organiser as the project grows, please say so in the Discussions — this list is meant to expand.
 
 ---
 
-## License
+## 11. License
 
-This project is open source. *(Add a license — e.g., [MIT License](LICENSE) — recommended for maximum openness and reuse.)*
-
----
-
-## Contact
-
-- 💬 Preferred: Open a [Discussion](../../discussions) or [Issue](../../issues) right here on GitHub
-- 📧 Contact - Go through my website
+This project is open source, so that its benefit may spread freely. *(Add a license — e.g., the MIT License — recommended for maximum openness and reuse.)*
 
 ---
 
-**If this resonates with you, don't just star it — join the conversation. This network is only as strong as the people who show up to build it.**
+## 12. Contact
+
+- 💬 **Preferred:** Open a Discussion or Issue right here on GitHub
+- 📧 **Contact:** Reach out through [my website](https://your-website.com)
+
+---
+
+<p align="center">
+  <em>If this resonates with you, do not merely star it — join the conversation.<br/>
+  This network is only as strong as the people who show up to build it.</em>
+</p>
+
+<p align="center">
+  <em>May Allah place barakah in this effort, and make it a source of ongoing benefit.<br/>
+  Wa ṣallallāhu 'alā Sayyidinā Muḥammad wa 'alā ālihi wa ṣaḥbihi wa sallam.</em> 🤍
+</p>
