@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Start a Discussion (preferred)
+    url: https://github.com/YOUR-USERNAME/IMSN/discussions
+    about: "Big ideas, open questions, and general conversation start here. Issues are for concrete proposals and tasks."
+  - name: 📧 Contact the Maintainer
+    url: https://your-website.com/contact
+    about: "For private or sensitive matters. (replace with your website link)"
