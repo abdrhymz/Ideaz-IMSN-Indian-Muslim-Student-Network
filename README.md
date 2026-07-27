@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- 👉 REPLACE THE src BELOW WITH YOUR IMAGE URL -->
-  <img src="YOUR_IMAGE_URL_HERE" alt="IMSN — Indian Muslims Student Network" width="640"/>
+  <img src="https://az-imsn.netlify.app/" alt="IMSN — Indian Muslims Student Network" width="640"/>
 </p>
 
 <h1 align="center">IMSN — Indian Muslims Student Network</h1>
