@@ -1,0 +1,54 @@
+name: "📚 Contribute a Guide / Resource"
+description: "Add to the resource library — applications, interviews, exams, study abroad, and more."
+title: "[Resource] "
+labels: ["resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Knowledge shared is **sadaqah jariyah** — it keeps benefiting people long after you've moved on.
+        Contribute a guide, checklist, or curated list for fellow students.
+  - type: dropdown
+    id: type
+    attributes:
+      label: "Resource type"
+      options:
+        - "College / university applications"
+        - "Exam prep (UPSC, JEE, NEET, CAT, etc.)"
+        - "Interview & career prep"
+        - "Study abroad"
+        - "Scholarships — how to find & win them"
+        - "Balancing faith, identity & student life"
+        - "Other"
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: "Title"
+      placeholder: "e.g. A first-gen student's guide to studying abroad without an agent"
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: "Draft or detailed outline"
+      description: "Paste your content or a thorough outline. Markdown welcome."
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: "Language(s)"
+      placeholder: "e.g. English, Hindi, Urdu"
+    validations:
+      required: false
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: "Rights & honesty"
+      options:
+        - label: "This is my original work (or I have permission to share it)."
+          required: true
+        - label: "I'm not sharing anyone's private information without consent."
+          required: true
