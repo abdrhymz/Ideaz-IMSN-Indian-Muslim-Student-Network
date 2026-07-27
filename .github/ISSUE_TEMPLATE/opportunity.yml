@@ -1,0 +1,73 @@
+name: "🎯 Share a Scholarship / Fellowship / Internship"
+description: "Add an opportunity to the community board — crowdsourced and verified."
+title: "[Opportunity] "
+labels: ["opportunity"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Information that doesn't reach people might as well not exist. Help fix that.
+        This board is **crowdsourced and verified** — honesty here is an amanah. List only what you've checked.
+  - type: input
+    id: name
+    attributes:
+      label: "Opportunity name"
+      placeholder: "e.g. Maulana Azad National Fellowship"
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: "Type"
+      options:
+        - "Scholarship"
+        - "Fellowship"
+        - "Internship"
+        - "Job"
+        - "Competition / grant"
+        - "Other"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: "Official URL"
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: "Deadline (if any)"
+      placeholder: "e.g. 30 September 2026 / Rolling"
+    validations:
+      required: false
+  - type: textarea
+    id: eligibility
+    attributes:
+      label: "Eligibility & key details"
+      description: "Who can apply? Amount/stipend? Any requirements relevant to our students?"
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: "Why is this relevant to Indian Muslim students?"
+    validations:
+      required: true
+  - type: checkboxes
+    id: integrity
+    attributes:
+      label: "Integrity check"
+      options:
+        - label: "I've verified this is genuine and currently active (to the best of my knowledge)."
+          required: true
+        - label: "This is not a paid promotion, and I've disclosed any affiliation below if one exists."
+          required: true
+  - type: input
+    id: source
+    attributes:
+      label: "How did you find this? (any affiliation?)"
+      placeholder: "e.g. Applied last year / no affiliation"
+    validations:
+      required: false
