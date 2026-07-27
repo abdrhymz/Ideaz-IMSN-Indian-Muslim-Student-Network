@@ -1,0 +1,95 @@
+name: "🎓 Join the Student / Alumni Directory"
+description: "Add yourself to the IMSN network — likely our very first deliverable."
+title: "[Profile] "
+labels: ["profile", "directory"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Bismillah — welcome to IMSN.** 🎓
+
+        The directory is one of the first things we want to build, and it starts with people like you showing up.
+        Share only what you're comfortable making public — your privacy is an **amanah** (trust).
+  - type: input
+    id: name
+    attributes:
+      label: "Full Name"
+      placeholder: "e.g. Mohammed Faizan"
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: "I am a..."
+      options:
+        - "School student"
+        - "Undergraduate student"
+        - "Postgraduate student"
+        - "Alumni / working professional"
+        - "Other"
+    validations:
+      required: true
+  - type: input
+    id: institution
+    attributes:
+      label: "Institution (current or most recent)"
+      placeholder: "e.g. AMU, JMI, Osmania University, Aligarh..."
+    validations:
+      required: true
+  - type: input
+    id: field
+    attributes:
+      label: "Field of Study / Work"
+      placeholder: "e.g. Computer Science, Medicine, Civil Services prep"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: "City, Country"
+      placeholder: "e.g. Lucknow, India"
+    validations:
+      required: true
+  - type: input
+    id: grad-year
+    attributes:
+      label: "Graduation Year (optional)"
+      placeholder: "e.g. 2027"
+    validations:
+      required: false
+  - type: input
+    id: links
+    attributes:
+      label: "LinkedIn / Portfolio / Twitter (optional)"
+      placeholder: "Comma-separated links"
+    validations:
+      required: false
+  - type: textarea
+    id: intro
+    attributes:
+      label: "Short Intro"
+      description: "2–3 sentences. What are you studying, and what's your journey so far?"
+    validations:
+      required: true
+  - type: checkboxes
+    id: looking-for
+    attributes:
+      label: "I'm here for (select all that apply)"
+      options:
+        - label: "🧭 Finding a mentor"
+        - label: "🤝 Mentoring others"
+        - label: "📚 Study buddies / peer group"
+        - label: "💼 Career guidance & referrals"
+        - label: "🎓 Scholarship & opportunity info"
+        - label: "🤲 Just connecting with people who get it"
+    validations:
+      required: false
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: "Consent & Adab"
+      options:
+        - label: "This information is accurate and I consent to it being published in this open directory."
+          required: true
+        - label: "I'll keep interactions respectful and follow the community's guiding principles."
+          required: true
