@@ -1,0 +1,65 @@
+name: "🧭 Mentorship — Offer or Request"
+description: "Connect seniors and professionals with juniors who need guidance."
+title: "[Mentorship] "
+labels: ["mentorship"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Mentorship is one of IMSN's core goals. Whether you want guidance or can give it — start here.
+        ⚠️ **Don't post phone numbers or emails publicly.** Exchange contact details privately once matched.
+  - type: dropdown
+    id: intent
+    attributes:
+      label: "I want to..."
+      options:
+        - "Find a mentor"
+        - "Offer mentorship"
+        - "Both — give and receive"
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: "Name"
+    validations:
+      required: true
+  - type: input
+    id: stage
+    attributes:
+      label: "Current stage"
+      placeholder: "e.g. 2nd-year B.Tech student / Software engineer, 4 yrs experience"
+    validations:
+      required: true
+  - type: input
+    id: fields
+    attributes:
+      label: "Field(s)"
+      placeholder: "e.g. Engineering, UPSC, study abroad, medicine"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: "What you need / what you can offer"
+      description: "Be specific. 'Need help with Masters applications to Germany' beats 'need guidance'."
+    validations:
+      required: true
+  - type: dropdown
+    id: time
+    attributes:
+      label: "Time commitment"
+      options:
+        - "One-off chat"
+        - "Monthly check-ins"
+        - "Ongoing / flexible"
+        - "Not sure yet"
+    validations:
+      required: false
+  - type: checkboxes
+    id: adab
+    attributes:
+      label: "Adab check"
+      options:
+        - label: "I'll be respectful, reliable, and honest with whoever I'm matched with."
+          required: true
