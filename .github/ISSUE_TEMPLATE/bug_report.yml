@@ -1,0 +1,40 @@
+name: "🐛 Bug Report"
+description: "For when we have code — report anything broken here."
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We're early — mostly discussions, not much code yet. But once we're building, report anything broken here.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: "What happened?"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "What did you expect?"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to reproduce (optional)"
+    validations:
+      required: false
+  - type: input
+    id: environment
+    attributes:
+      label: "Browser / device (optional)"
+    validations:
+      required: false
+  - type: checkboxes
+    id: adab
+    attributes:
+      label: "Adab check"
+      options:
+        - label: "Reporting this kindly and honestly."
+          required: true
