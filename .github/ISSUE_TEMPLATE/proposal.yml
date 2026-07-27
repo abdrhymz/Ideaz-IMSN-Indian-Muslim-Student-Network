@@ -1,0 +1,56 @@
+name: "💡 Concrete Proposal"
+description: "A specific, actionable idea for IMSN. (Open-ended chat? Use Discussions instead.)"
+title: "[Proposal] "
+labels: ["proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Per our README: **Discussions** are for open conversation, **Issues** are for concrete proposals we can act on.
+        If your idea is still fuzzy, start a Discussion first — then bring it here once it's sharper.
+  - type: input
+    id: title
+    attributes:
+      label: "Proposal in one line"
+      placeholder: "e.g. A verified scholarships spreadsheet as our first deliverable"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "What problem does this solve?"
+      description: "Which students struggle with this, and how do you know?"
+    validations:
+      required: true
+  - type: textarea
+    id: approach
+    attributes:
+      label: "Proposed approach / first steps"
+      description: "How would we actually start? Keep it concrete."
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: "Which area does this touch?"
+      options:
+        - "Directory / network"
+        - "Mentorship"
+        - "Scholarships & opportunities"
+        - "Resource library"
+        - "Chapters / meetups"
+        - "Website / platform"
+        - "Governance"
+        - "Other"
+    validations:
+      required: true
+  - type: checkboxes
+    id: help
+    attributes:
+      label: "Can you help build this?"
+      options:
+        - label: "Yes — I can lead or co-lead it"
+        - label: "I can contribute time (dev / design / content / outreach)"
+        - label: "Just proposing — hoping others pick it up"
+    validations:
+      required: false
