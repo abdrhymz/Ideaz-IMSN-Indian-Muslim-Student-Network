@@ -1,0 +1,56 @@
+name: "🏫 Start a Campus / City Chapter"
+description: "Organize IMSN where you are — a college, a city, or a region."
+title: "[Chapter] "
+labels: ["chapter"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Chapters are how IMSN goes from an online idea to real community on the ground.
+        Tell us where you want to build, and what you need to start.
+  - type: dropdown
+    id: scope
+    attributes:
+      label: "Chapter scope"
+      options:
+        - "Single campus / institution"
+        - "City-wide"
+        - "Region / state"
+        - "Online community (by field or interest)"
+    validations:
+      required: true
+  - type: input
+    id: place
+    attributes:
+      label: "Institution / City / Region"
+      placeholder: "e.g. AMU Aligarh / Bengaluru / Kerala"
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: "Your name & stage"
+      placeholder: "e.g. Sana, 3rd-year student / alumni based in the city"
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: "Why here? What's the need?"
+      description: "What's missing for students where you are?"
+    validations:
+      required: true
+  - type: textarea
+    id: support
+    attributes:
+      label: "What would help you start?"
+      placeholder: "e.g. 3–4 co-organizers, a meetup space, guidance on running the first event"
+    validations:
+      required: false
+  - type: checkboxes
+    id: commit
+    attributes:
+      label: "Commitment"
+      options:
+        - label: "I'm willing to be the initial point person for this chapter."
+          required: true
